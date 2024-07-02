@@ -2,7 +2,7 @@ apt update
 
 apt install software-properties-common
 
-add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y
+add-apt-repository ppa:qbittorrent-team/qbittorrent-unstable -y
 
 apt-get update &&  apt-get install qbittorrent
 
